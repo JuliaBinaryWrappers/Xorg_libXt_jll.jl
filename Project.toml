@@ -1,0 +1,12 @@
+name = "Xorg_libXt_jll"
+uuid = "28c4a263-0105-5ca0-9a8c-f4f6b89a1dd4"
+version = "1.2.0+0"
+
+[deps]
+Pkg = "44cfe95a-1eb2-52ea-b672-e2afdf69b78f"
+Xorg_libSM_jll = "c834827a-8449-5923-a945-d239c165b7dd"
+Xorg_libX11_jll = "4f6342f7-b3d2-589e-9d20-edeb45f2b2bc"
+Libdl = "8f399da3-3557-5675-b5ff-fb832c97cbdb"
+
+[compat]
+julia = "1.0"

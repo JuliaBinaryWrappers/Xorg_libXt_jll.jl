@@ -1,0 +1,89 @@
+[[Xorg_libXt]]
+arch = "aarch64"
+git-tree-sha1 = "932c96ceb7bf818ee83065620a865e5802cbfba5"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "8dc8c57c7f34f3ed8e2a1da5a67703f7db037b0d23a33ce2fb913b5f509708bc"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.aarch64-linux-musl.tar.gz"
+[[Xorg_libXt]]
+arch = "aarch64"
+git-tree-sha1 = "ef79ca4f56cc11e599008ff48ad623a4ec49481d"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "c7943cd4a9422586367454b5d6ea9248ce9b98e74bae4e6e7f74e69faa7983db"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.aarch64-linux-gnu.tar.gz"
+[[Xorg_libXt]]
+arch = "x86_64"
+git-tree-sha1 = "b8c1420ae3ef9b861658831ba86284bc9df9f3a9"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "fb10671a0f019172f09507cbe4f4a6c857b64d2917dfe77524427686ac7173df"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.x86_64-linux-gnu.tar.gz"
+[[Xorg_libXt]]
+arch = "powerpc64le"
+git-tree-sha1 = "769ddbfa01e3b4b28aec6ac158ba221afb61e742"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "82ccdb82639079e5a48fa0fde2067d02ebace83b68b41b6c238403277b261aeb"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.powerpc64le-linux-gnu.tar.gz"
+[[Xorg_libXt]]
+arch = "x86_64"
+git-tree-sha1 = "5ca7544e0561a2b5b53880703353c480030bbaf9"
+os = "freebsd"
+
+    [[Xorg_libXt.download]]
+    sha256 = "25b4480a25d834e60b0d9e73e9aa70149b480c3de71c36d60db6409c0828328d"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.x86_64-unknown-freebsd11.1.tar.gz"
+[[Xorg_libXt]]
+arch = "i686"
+git-tree-sha1 = "0c731efd341a542c1432168c48ff3c3acba8c8cc"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "cb343a1f255fbe6e05eb2c95d7f0ca0738041bab0eb53d5b5d166eb2c53170d4"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.i686-linux-gnu.tar.gz"
+[[Xorg_libXt]]
+arch = "i686"
+git-tree-sha1 = "61254f68fc628cd150be4fe85db43504666cd301"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "92092ad1fb5e1b4cb58f8f5cc276e98c6e46603b2997adb3ca6c1e6097eeb6fe"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.i686-linux-musl.tar.gz"
+[[Xorg_libXt]]
+arch = "armv7l"
+git-tree-sha1 = "13157164d444e99ef9be3b9890e71b283b9380e0"
+libc = "glibc"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "86c3bebe79d0f173ca37dff48eb69fe77f5473cc00cded62c71305c796086d60"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.armv7l-linux-gnueabihf.tar.gz"
+[[Xorg_libXt]]
+arch = "x86_64"
+git-tree-sha1 = "ebf31612c795bede1277d49d8875225532c9481a"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "3bb4aea4a791649dcc9ad67581321b0caa07af4f87a3e7d4ccc7aab02bf00978"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.x86_64-linux-musl.tar.gz"
+[[Xorg_libXt]]
+arch = "armv7l"
+git-tree-sha1 = "c1311dcf976665cd5d1b2ec2eb120b140a8787a9"
+libc = "musl"
+os = "linux"
+
+    [[Xorg_libXt.download]]
+    sha256 = "ff765ea262d0bc4044ba6af8bbb39de09607f71779bbbb8757b72894f7b3c84b"
+    url = "https://github.com/JuliaBinaryWrappers/Xorg_libXt_jll.jl/releases/download/Xorg_libXt-v1.2.0+0/Xorg_libXt.v1.2.0.armv7l-linux-musleabihf.tar.gz"
